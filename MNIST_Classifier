@@ -1,0 +1,5 @@
+#Use a MNIST model to take 28x28 pixel black and white images and classify the symbol in the image and output it
+
+import pyplot as plt
+
+print("this is a python script")
